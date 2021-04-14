@@ -3,6 +3,7 @@ Codes created for Control and Automation classes
 
 All Matlab routines solves problems proposed by the respective PDFs files (subject evaluation).
 
+Acaliacao2:  
 Part 1 - Jury method for stability analysis / variation of K (Proportional control of systems) / impulse and step response.  
 Part 2 - System Transfer function (closed loop) / step reponse analysis / root locus.  
 Part 3 - System with compensation / transfer function / step reponse analysis.  
