@@ -4,17 +4,18 @@ clear
 %Mylena - 28/09/20
 
 %Coeficientes do Modelo
+oi = 3;
 a1 = -0.49;
 a2 = -0.495;
 b1 = 0.008856;
 b2 = 0.004428;
 u = 1;
 N = 10;
-%Condições Iniciais
+%Condiï¿½ï¿½es Iniciais
 y(0) = 0;
 y(1) = 0;
 y(2) = 0;
-%Iteração Recursiva
+%Iteraï¿½ï¿½o Recursiva
 for t=3:N
  %Erro com modelo Gaussiano mean=0 std=5
  %Associado ao tempo de descarga
